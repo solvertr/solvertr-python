@@ -1,4 +1,5 @@
 # Solvertr API Examples
+0.3$/1k turnstile solver
 
 This repository contains sample code demonstrating how to use the [Solvertr](https://solver.tr) Turnstile APIs.
 
